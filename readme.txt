@@ -3,3 +3,5 @@
 It describes the inner feelings of a broken-down machine, waiting for its owner to fix it.
 
 Louie Zong wanted to “test out a virtual singing program”, called Virtual Singer, which gave them the motivation to write this song.
+
+oh and i didnt write the song
